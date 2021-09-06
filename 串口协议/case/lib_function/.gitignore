@@ -1,0 +1,7 @@
+﻿# no .a , .crf files
+*.o
+*.crf
+# ignore all files in the OBJ/ , .vscode/ directory
+OBJ/
+.vscode/
+
